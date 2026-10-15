@@ -7,7 +7,9 @@ I am sharing the recorded video of my workshop on Introduction to PyPSA (Python 
 Whether you are a Filipino engineering student or a practicing engineer, this introduction to PyPSA will help you dive into open-source energy system modeling and renewable integration.
 
 🎥 Watch the full recorded workshop here:
+
 PART 1: https://lnkd.in/ej-YVUaD
+
 PART 2: https://lnkd.in/eRiauiqx
 
 💬 Got questions or want to connect? 
