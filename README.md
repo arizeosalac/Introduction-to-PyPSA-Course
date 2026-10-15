@@ -14,6 +14,6 @@ Whether you are a Filipino engineering student or a practicing engineer, this in
 
 💬 Got questions or want to connect? 
 If you have any questions about the session, please do not hesitate to contact me! 
-You can also join the PyPSA-meets-Earth Discord group (https://lnkd.in/eTvac_pB) to connect with the broader global energy modeling community.
+You can also join the [PyPSA-meets-Earth Discord group](https://discord.com/invite/AnuJBk23FU) to connect with the broader global energy modeling community.
 
 #PowerSystems #ElectricalEngineering #PyPSA #FilipinoEngineers #EnergyModeling #OpenSource #Python
