@@ -8,9 +8,9 @@ Whether you are a Filipino engineering student or a practicing engineer, this in
 
 🎥 Watch the full recorded workshop here:
 
-PART 1: https://lnkd.in/ej-YVUaD
+[PART 1](https://www.youtube.com/watch?v=yhZgy_ZWTj0)
 
-PART 2: https://lnkd.in/eRiauiqx
+[PART 2](https://www.youtube.com/watch?v=l56rBXa6t78&feature=youtu.be)
 
 💬 Got questions or want to connect? 
 If you have any questions about the session, please do not hesitate to contact me! 
